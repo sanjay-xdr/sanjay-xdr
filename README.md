@@ -10,9 +10,9 @@
 
 
 
-[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-xdr&show_icons=true&theme=dark)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-xdr&show_icons=true&theme=dark)
 
-
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-xdr)
 
