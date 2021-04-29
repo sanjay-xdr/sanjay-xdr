@@ -4,7 +4,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/VzGQrj8sLH4GLcSiG1" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/giphydiscovery-dogs-VzGQrj8sLH4GLcSiG1">via GIPHY</a></p>
+
 
 
 
