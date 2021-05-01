@@ -1,10 +1,7 @@
-
-
-
-###👋 Hi, I’m Sanjay
-###👀 I’m interested in learning new things,animes and coding
-###🌱 I’m currently learning Full stack Web development
-###💞️ I’m looking to collaborate on various projects, startups and web-development.
+👋 Hi, I’m Sanjay<br>
+#👀 I’m interested in learning new things,animes and coding<br>
+#🌱 I’m currently learning Full stack Web development<br>
+#💞️ I’m looking to collaborate on various projects, startups and web-development.<br>
 
 
 
