@@ -3,6 +3,9 @@ I’m interested in learning new things,animes and coding<br>
 I’m currently learning Full stack Web development<br>
 I’m looking to collaborate on various projects, startups and web-development.<br>
 
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjay-jaiswal-603757202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-jaiswal-603757202" height="30" width="40" /></a>
